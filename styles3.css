@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #ffffff;
+    text-align: center;
+    line-height: 100px;
+}
+
+.output {
+    width: 100px;
+    height: 100px;
+    background-color: #e74c3c;
+    color: #ffffff;
+    text-align: center;
+    line-height: 100px;
+    margin-left: 20px;
+}

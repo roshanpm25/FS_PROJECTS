@@ -1,0 +1,23 @@
+.container {
+    position: relative;
+    width: 300px;
+    margin: 50px auto;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.toggle-password {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    background-image: url('https://th.bing.com/th?id=OIP.DiHHJdnn1_fNjq63h9CpsQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2');
+    background-size: cover;
+}
